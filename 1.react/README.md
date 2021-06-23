@@ -1,0 +1,2 @@
+- npm install -g create-react-app 全局安装react脚手架
+- create-react-app 'xxx'  创建项目
